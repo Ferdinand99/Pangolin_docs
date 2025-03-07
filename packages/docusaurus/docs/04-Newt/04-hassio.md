@@ -100,9 +100,10 @@ If this fails, there may be a restriction in Home Assistant OS.
 ---
 ## Useful Links
 
-- 📖 [Newt Documentation](https://docs.fossorial.io/Newt/overview)
-- 🏡 [Home Assistant](https://www.home-assistant.io/)
-- 🐳 [Docker Docs](https://docs.docker.com/)
+- [HA addon repo](https://github.com/Ferdinand99/home-assistant-newt-addon)
+- [Newt Documentation](https://docs.fossorial.io/Newt/overview)
+- [Home Assistant](https://www.home-assistant.io/)
+- [Docker Docs](https://docs.docker.com/)
 
 
 ## Contribute
