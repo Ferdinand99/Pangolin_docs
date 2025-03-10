@@ -25,7 +25,7 @@ This Home Assistant add-on allows you to easily run **Newt** from [Fossorial](ht
 - Add the following URL:
     
     ```
-    https://github.com/username/home-assistant-newt-addon
+    https://github.com/Ferdinand99/home-assistant-newt-addon
     ```
     
 
